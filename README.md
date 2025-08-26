@@ -5,17 +5,19 @@ This repo contains a collection of C programs I’m building as part of my **Com
 
 ---
 
-## 📂 Topics Covered (so far)
-- **Basic Syntax**
-- Printing *Hello World*
+## 📚 Topics Covered (so far)
+
+### 🔹 Basic Syntax
+- Printing **Hello World**
 - Swapping two numbers (using a temporary variable)
 - Swapping two numbers (without a temporary variable)
--**Conditionals**
--Conditional statements (if-else, else if)
--Switch-case statements
--Comparison operators
--Input/output in C
--Basic problem-solving in C
+
+### 🔹 Conditionals
+- Conditional statements (`if`, `else`, `else if`)
+- Switch-case statements
+- Comparison operators
+- Input/output in C
+- Basic problem-solving in C
 
 ---
 
