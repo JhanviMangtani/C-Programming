@@ -7,17 +7,30 @@ This repo contains a collection of C programs I’m building as part of my **Com
 
 ## 📚 Topics Covered (so far)
 
-### 🔹 Basic Syntax
+### 🔷 Basic Syntax
 - Printing **Hello World**
 - Swapping two numbers (using a temporary variable)
 - Swapping two numbers (without a temporary variable)
 
-### 🔹 Conditionals
+### 🔷 Conditionals
 - Conditional statements (`if`, `else`, `else if`)
 - Switch-case statements
 - Comparison operators
 - Input/output in C
 - Basic problem-solving in C
+
+### 🔷 Loops
+- Counting digits in a number  
+- Printing even numbers from 1 to N  
+- Calculating factorial (using `for` loop)  
+- Finding HCF & LCM  
+- Printing numbers in sequence  
+- Checking palindrome number  
+- Checking if a number is positive, negative, or zero  
+- Checking if a number is prime  
+- Separating digits of a number  
+- Summing digits of a number  
+- Summing natural numbers (using `for` loop)  
 
 ---
 
