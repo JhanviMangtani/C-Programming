@@ -30,7 +30,15 @@ This repo contains a collection of C programs I’m building as part of my **Com
 - Checking if a number is prime  
 - Separating digits of a number  
 - Summing digits of a number  
-- Summing natural numbers (using `for` loop)  
+- Summing natural numbers (using `for` loop)
+
+### 🔷 Strings Topics Covered
+
+- Calculating the length of a string 
+- Copying one string to another 
+- Concatenating two strings
+- Comparing two strings 
+- Checking if a string is a palindrome   
 
 ---
 
@@ -60,7 +68,6 @@ gcc program.c -o program
 ---
 
 ## 🌱 Upcoming Topics
-- Loops (for, while, do-while)
 - Arrays
 - Functions
 - Pointers
