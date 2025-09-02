@@ -38,7 +38,28 @@ This repo contains a collection of C programs I’m building as part of my **Com
 - Copying one string to another 
 - Concatenating two strings
 - Comparing two strings 
-- Checking if a string is a palindrome   
+- Checking if a string is a palindrome
+
+ ### 🔷 Arrays Topics Covered
+-Introduction to arrays in C
+-Declaring and initializing arrays
+-Traversing arrays (input/output of elements)
+-Finding the maximum and minimum element
+-Summing elements of an array
+-Reversing an array
+-Linear search in an array
+-Binary search in an array
+-Bubble sort
+-Insertion sort
+
+### 🔷 Functions Topics Covered
+-Introduction to functions in C
+-Function declaration and definition
+-Function prototypes
+-Returning values from functions
+-Recursive functions
+   - Factorial using recursion
+   - Fibonacci series using recursion
 
 ---
 
@@ -68,11 +89,9 @@ gcc program.c -o program
 ---
 
 ## 🌱 Upcoming Topics
-- Arrays
-- Functions
+- 2D Arrays
 - Pointers
-- Structures and Unions
-- File Handling
+- Structures 
 
 ---
 
