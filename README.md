@@ -60,6 +60,12 @@ This repo contains a collection of C programs I’m building as part of my **Com
 - Recursive functions
    - Factorial using recursion
    - Fibonacci series using recursion
+ 
+ ### 🔷 Pointers Topics Covered
+ - Basic pointer operations (address and value of a variable)
+ - Pointer usage in array sorting
+ - Finding smallest array element using pointers
+ - Swap operation using call by reference
 
 ---
 
@@ -90,7 +96,6 @@ gcc program.c -o program
 
 ## 🌱 Upcoming Topics
 - 2D Arrays
-- Pointers
 - Structures 
 
 ---
