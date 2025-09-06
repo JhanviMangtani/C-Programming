@@ -60,6 +60,14 @@ This repo contains a collection of C programs I’m building as part of my **Com
 - Recursive functions
    - Factorial using recursion
    - Fibonacci series using recursion
+
+ ### 🔷 2D Arrays Topics Covered
+- Sorting rows/columns in a matrix
+- Matrix addition
+- Transpose of a matrix
+- Implementation of matrix multiplication
+- Revrsing a matrix
+- Finding largest matrix element 
  
  ### 🔷 Pointers Topics Covered
  - Basic pointer operations (address and value of a variable)
@@ -94,9 +102,6 @@ gcc program.c -o program
 
 ---
 
-## 🌱 Upcoming Topics
-- 2D Arrays
-- Structures 
 
 ---
 
