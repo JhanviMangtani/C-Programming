@@ -5,6 +5,20 @@ This repo contains a collection of C programs I’m building as part of my **Com
 
 ---
 
+### Index of Topics
+- [Basics](Basics/README.md)
+- [Conditionals](Conditionals/README.md)
+- [Loops](Loops/README.md)
+- [Strings](Strings/README.md)
+- [Basics](Basics/README.md)
+- [Arrays](Arrays/README.md)
+- [2D Arrays](2DArrays/README.md)
+- [Functions](Functions/README.md)
+- [Pointers](Pointers/README.md)
+- [Structures](Structures/README.md)
+
+  
+---
 ## 📚 Topics Covered (so far)
 
 ### 🔷 Basic Syntax
