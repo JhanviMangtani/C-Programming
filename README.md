@@ -104,6 +104,7 @@ gcc program.c -o program
 - Practice writing **clean and efficient code**
 - Learn and apply **Git & GitHub version control**
 - Build a **public portfolio** that showcases my growth as a developer
+  
 
-ng project**. Each branch may represent a different topic, which gets merged into `main` once completed.
+Each branch may represent a different topic, which gets merged into `main` once completed.
 This way, the `main` branch always stays updated with clean, final versions of programs.
