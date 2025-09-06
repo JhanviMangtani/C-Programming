@@ -75,6 +75,11 @@ This repo contains a collection of C programs I’m building as part of my **Com
  - Finding smallest array element using pointers
  - Swap operation using call by reference
 
+### 🔷Structures Topics Covered
+- Defining and using structures
+- Array of structures
+- Pointers to structures
+
 ---
 
 ## 🛠️ How to Run the Programs
@@ -100,11 +105,5 @@ gcc program.c -o program
 - Learn and apply **Git & GitHub version control**
 - Build a **public portfolio** that showcases my growth as a developer
 
----
-
-
----
-
-## 📌 About This Repo
-This is a **personal learning project**. Each branch may represent a different topic, which gets merged into `main` once completed.
+ng project**. Each branch may represent a different topic, which gets merged into `main` once completed.
 This way, the `main` branch always stays updated with clean, final versions of programs.
